@@ -31,7 +31,7 @@ struct Student {
         int numCourses;
         float marks, per;
 };
-
+//----------***Teacher***------------
 struct Teacher {
      char id[10];
      char name[MAX_NAME_LENGTH];
