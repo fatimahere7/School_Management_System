@@ -1,1 +1,3 @@
 # School_Management_System
+Desktop Application
+Programming fundamentals Project
